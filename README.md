@@ -148,4 +148,12 @@
 ###### │ • One-Tap Emergency `tel:` Dispatch   │   │ • Map Verification \& Moderation       │
 
 ###### └───────────────────────────────────────┘   └───────────────────────────────────────┘
+## 🧪 Running Tests
 
+This project uses **Vitest** and **React Testing Library** to verify civic issue classification and department-routing logic.
+
+```bash
+npm test
+Test Suite: __tests__/classify.test.ts
+
+Setup Configuration: tests/setup.ts
