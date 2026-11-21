@@ -17,6 +17,15 @@
 ###### \---
 
 ###### 
+<img width="1857" height="957" alt="image" src="https://github.com/user-attachments/assets/ce6db289-9168-49c8-989e-bdf8ba4b69df" />
+<img width="1847" height="907" alt="image" src="https://github.com/user-attachments/assets/90d147ff-c789-4e0e-b2ef-5b7102ec488f" />
+<img width="1847" height="907" alt="image" src="https://github.com/user-attachments/assets/bb7aebd4-9ae3-4c67-92de-2c8ee7eb79c1" />
+<img width="1707" height="902" alt="image" src="https://github.com/user-attachments/assets/092bfa06-79bd-4208-84d6-363cc24020db" />
+<img width="1697" height="912" alt="image" src="https://github.com/user-attachments/assets/eaba7fe0-81a8-4f68-a2ee-aaf3938fee44" />
+
+
+
+
 
 ###### \## 1. Problem Statement \& Real-World Impact
 
